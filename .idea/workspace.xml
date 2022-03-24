@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cd2d05a-53f9-498e-af7b-7a477b8d7ecb" name="Changes" comment="Primeiro Commit. &#10;gitignore com padrão do curso." />
+    <list default="true" id="2cd2d05a-53f9-498e-af7b-7a477b8d7ecb" name="Changes" comment="Primeiro Commit. &#10;gitignore com padrão do curso.">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Curso-Django-Projeto1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Curso-Django-Projeto1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +64,8 @@
       <option name="presentableId" value="Default" />
       <updated>1648108472952</updated>
       <workItem from="1648108476396" duration="724000" />
+      <workItem from="1648129139426" duration="1036000" />
+      <workItem from="1648131612227" duration="5463000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro Commit. &#10;gitignore com padrão do curso.">
       <created>1648109162741</created>
@@ -86,16 +94,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro Commit. &#10;gitignore com padrão do curso." />
     <option name="LAST_COMMIT_MESSAGE" value="Primeiro Commit. &#10;gitignore com padrão do curso." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
