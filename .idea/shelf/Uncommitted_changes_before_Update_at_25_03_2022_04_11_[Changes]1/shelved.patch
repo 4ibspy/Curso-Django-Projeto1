@@ -1,0 +1,8 @@
+Index: main.py
+===================================================================
+diff --git a/main.py b/main.py
+deleted file mode 100644
+--- a/main.py	
++++ /dev/null	
+@@ -1,1 +0,0 @@
+-print('teste')
